@@ -2,15 +2,15 @@
 This is my first Git Repository.
 <br>
 My name is Aima Asif.
-<b>
+<br>
 I am 22 years old.
-<b>
+<br>
 Recently I have done my graduation.
-<b>
+<br>
 Now I am enrolled in Applied Generative AI course under PIAIC institute.
-<b>
+<br>
 I want to learn about Generative AI and advance technology.
-<b>
+<br>
 Its my first experience on Git.
-<b>
+<br>
 I hope I will do my best in future.
